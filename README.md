@@ -2,6 +2,10 @@
 
 An AI/ML-based project aimed at assisting students with intelligent tools, insights, and automation. The project will demonstrate the practical application of machine learning concepts for problem-solving in the real world.
 
+## 🎯 Objective
+
+The goal of this project is to create a tic tac toe game where user plays a game with AI.
+
 ## 🛠️ Tools and Technology Used
 Programming Language : Python  
 Libraries Used : math  
@@ -25,12 +29,6 @@ AI-ML-Vityarthi-Project/
 4. Install dependencies
 5. pip install -r requirements.txt
 5. Run the project
-
-## 🎯 Objective
-
-The goal of this project is to create a tic tac toe game where user plays a game with AI.
-
-
 
 ## 👨‍💻 Made By :
 
