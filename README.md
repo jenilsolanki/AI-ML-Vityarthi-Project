@@ -7,7 +7,7 @@ Programming Language : Python
 Libraries Used : math  
 Tools: VS Code  
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 AI-ML-Vityarthi-Project/
@@ -32,7 +32,7 @@ The goal of this project is to create a tic tac toe game where user plays a game
 
 
 
-👨‍💻 Made By :
+## 👨‍💻 Made By :
 
 Name - Jenil Solanki
 Registration No. - 25BCE10819
