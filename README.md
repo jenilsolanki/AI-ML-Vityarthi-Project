@@ -34,5 +34,5 @@ The goal of this project is to create a tic tac toe game where user plays a game
 
 ## 👨‍💻 Made By :
 
-Name - Jenil Solanki
+Name - Jenil Solanki  
 Registration No. - 25BCE10819
