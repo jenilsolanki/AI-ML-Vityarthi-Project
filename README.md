@@ -3,9 +3,10 @@
 An AI/ML-based project aimed at assisting students with intelligent tools, insights, and automation. The project will demonstrate the practical application of machine learning concepts for problem-solving in the real world.
 
 ## 🛠️ Tools and Technology Used
-Programming Language : Python
-Libraries Used : math
-Tools: VS Code
+Programming Language : Python  
+Libraries Used : math  
+Tools: VS Code  
+
 📂 Project Structure
 
 ```
